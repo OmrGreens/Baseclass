@@ -26,6 +26,13 @@ public class Sample {
 				.getData("C:\\Users\\Lenovo\\eclipse-workspace\\Baseclass\\Excel\\Exel data.xlsx", "Sheet1", 1, 1));
 
 		global.btnClick(loginPage.getBtnLogin());
+		
+		
+		System.out.println("1");
+		
+		System.out.println("2");
+		
+		System.out.println("3");
 
 	}
 
